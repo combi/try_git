@@ -73,7 +73,8 @@ def getNumeratedNameSimple(nameInput, keepNs=True, sceneNames=[]):
         reFilter = r'%s%s_(\d+)_%s' %(ns,basename,suffix)
         nameIsSyntaxed = False
 
-
+    hereIsAnotherChange
+    
 
     print ''
     return nameOutput
