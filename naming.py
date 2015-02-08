@@ -13,7 +13,7 @@ def clearScreen():
 def getNumeratedNameSimple(nameInput, keepNs=True, sceneNames=[]):
 
     nameOutput = ''
-
+    nodeName = nameInput
     # --------------------------------------------------------------------------
     # -- We separate namespace and real objName
     #
